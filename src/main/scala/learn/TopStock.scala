@@ -5,7 +5,7 @@ package learn
   * @date: 2019-01-23 15:21
   * @description:
   */
-class TopStock {
+object TopStock {
 
 
 
